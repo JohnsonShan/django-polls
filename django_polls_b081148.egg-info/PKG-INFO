@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: django-polls-b081148
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://www.example.com/
+Author: Your Name
+Author-email: Example Author <author@example.com>
+License: MIT License
+Project-URL: Homepage, https://github.com/JohnsonShan/django-polls
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: Django>=4.2.7
+
+# Example Package
+
+This is a simple example package. You can use
+[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
